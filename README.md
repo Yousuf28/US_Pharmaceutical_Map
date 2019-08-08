@@ -12,5 +12,5 @@
  [[nbviewer](https://nbviewer.jupyter.org/github/Yousuf28/US_Pharmaceutical_Map/blob/master/final_list/us_pharma_map/us_pharma_map.ipynb)]
  
 
-
+- [see article in linkedin](https://www.linkedin.com/pulse/interactive-map-pharmaceutical-companies-usa-yousuf-ali/)
 
